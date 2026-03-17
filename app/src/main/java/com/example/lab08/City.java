@@ -1,5 +1,7 @@
 package com.example.lab08;
 
+// This comment was added to verify the CI pipeline is working correctly
+
 public class City {
     private String city;
     private String province;
